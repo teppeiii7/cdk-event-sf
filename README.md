@@ -4,6 +4,13 @@ EventBridge to StepFunctions Example
 
 ![overview](./image.jpeg)
 
+# Usage
+
+```
+$ cdk --version
+2.65.0 
+```
+
 # Run
 
 ```
